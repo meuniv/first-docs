@@ -71,8 +71,8 @@ import sphinx_rtd_theme
 ###html_theme= 'groundwork'
 
 #####html_theme = 'bizstyle'
-import edx_theme
-import os
+#import edx_theme
+#import os
 
 ##extensions = ['edx_theme']
 
